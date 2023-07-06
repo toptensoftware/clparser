@@ -1,0 +1,12 @@
+{
+  "name": "@toptensoftware/clparser",
+  "version": "1.0.0",
+  "description": "A simple, but flexible command line parser for NodeJS",
+  "main": "clparser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Topten Software",
+  "license": "Apache-2.0",
+  "copyright": "Copyright (C) 2023 Topten Software. All Rights Reserved"
+}
